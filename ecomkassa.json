@@ -1,0 +1,42 @@
+[
+  {
+    "сКонфигурации": "УправлениеТорговлей",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_UT.epf"
+  },
+  {
+    "сКонфигурации": "УправлениеТорговлей",
+    "вКонфигурации": "11.5",
+    "Версия": "2.0.0.10",
+    "адресФайла2": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_UT.epf",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_UT_fresh.epf"
+  },
+  {
+    "сКонфигурации": "БухгалтерияПредприятия",
+    "Версия": "2.0.0.10",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_BP_fresh.epf",
+    "адресФайлаРасширения": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_BP.epf"
+  },
+  {
+    "сКонфигурации": "УчетВУправляющихКомпаниях",
+    "Версия": "2.0.0.10",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_BP_fresh.epf"
+  },
+  {
+    "сКонфигурации": "УправлениеНебольшойФирмой",
+    "вКонфигурации": "3.0",
+    "Версия": "2.0.0.10",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_UNF_fresh.epf"
+  },
+  {
+    "сКонфигурации": "Розница",
+    "вКонфигурации": "3.0",
+    "Версия": "2.0.0.10",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_UNF_fresh.epf"
+  },
+  {
+    "сКонфигурации": "Розница",
+    "вКонфигурации": "2.3",
+    "Версия": "2.0.0.10",
+    "адресФайла": "https://rawcdn.githack.com/EcomkassaBitrix/1c/refs/heads/main/ecomkassa_TR_fresh.epf"
+  }
+]
